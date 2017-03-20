@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:26
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(...); }
+
